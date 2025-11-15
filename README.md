@@ -1,3 +1,3 @@
 # Journey
 
-My implementation of the [ThreeJs Journey](https://threejs-journey.com/) turorial series by Bruno Simon.
+My implementation of the <a href="https://threejs-journey.com/" target="_blank" rel="noopener noreferrer">Three.js Journey</a> tutorial series by Bruno Simon.
